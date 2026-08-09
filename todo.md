@@ -1,0 +1,5 @@
+- Mplement the coolify Python Controller, 
+- Push the Crawler image to the registry tailored to our need 
+-Make the dummy dark web forum (public no login required) for the dark web crawl testing
+- Connect the Presidio Container for the PII redaction from the reports 
+- Connect the Langsearch api in the backend or frontend for better customer information  atomated web search and better result. Webcheck for comprehensive information for source of truth 
